@@ -1,0 +1,750 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="qmpr.com" resolutions="1x" timestamp="1574653742667">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-p_g_-maestra.css" crc="3987107374" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="index.css" crc="287813345" ref="index"/>
+    <file name="articulos-para-el-hohar.css" crc="169096868" ref="articulos-para-el-hohar"/>
+    <file name="materia-prima.css" crc="250062848" ref="materia-prima"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="museutils.js" crc="4216313831" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="whatinput.js" crc="86476730" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="museconfig.js" crc="474374037" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="webpro.js" crc="4143865194" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="form_check.php" crc="154010282" ref="index"/>
+    <file name="form_throttle.php" crc="266437015" ref="index"/>
+    <file name="form_process.php" crc="512629711" ref="index"/>
+    <file name="form-u2495.php" crc="4248905694" ref="index"/>
+    <file name="form-u1776.php" crc="3805384823" ref="index"/>
+    <file name="form-u17285.php" crc="4182468211" ref="index"/>
+    <file name="form-u17490.php" crc="4071817225" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="require.js" crc="3951022091" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="form-u10892.php" crc="3887749621" ref="articulos-para-el-hohar"/>
+    <file name="form-u3878.php" crc="4110415251" ref="articulos-para-el-hohar"/>
+    <file name="form-u10708.php" crc="3781432524" ref="articulos-para-el-hohar"/>
+    <file name="form-u13968.php" crc="358430195" ref="articulos-para-el-hohar"/>
+    <file name="form-u8050.php" crc="433147704" ref="articulos-para-el-hohar"/>
+    <file name="form-u10517.php" crc="113668796" ref="articulos-para-el-hohar"/>
+    <file name="form-u13793.php" crc="3853041077" ref="articulos-para-el-hohar"/>
+    <file name="form-u13249.php" crc="3836970699" ref="articulos-para-el-hohar"/>
+    <file name="form-u13009.php" crc="155020446" ref="articulos-para-el-hohar"/>
+    <file name="form-u14986.php" crc="3824884002" ref="articulos-para-el-hohar"/>
+    <file name="form-u14609.php" crc="3904789155" ref="articulos-para-el-hohar"/>
+    <file name="form-u15382.php" crc="3852729472" ref="materia-prima"/>
+    <file name="form-u15427.php" crc="424109540" ref="materia-prima"/>
+    <file name="form-u16155.php" crc="138442401" ref="materia-prima"/>
+    <file name="form-u15502.php" crc="20030990" ref="materia-prima"/>
+    <file name="form-u15970.php" crc="152768861" ref="materia-prima"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3771977430" ref="index"/>
+    <file name="logo.svg" crc="4058186960" seo="true" ref="index:articulos-para-el-hohar:materia-prima">
+      <caption webpage="index" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+    </file>
+    <file name="logo_poster_.png" crc="4240976006" ref="index"/>
+    <file name="isologo.png" crc="400602412" seo="true" ref="index:articulos-para-el-hohar:materia-prima">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u3364.png" crc="3758469147" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u3364-r.png" crc="23127092" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u3364-m.png" crc="448146169" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u3364-a.png" crc="4023171029" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u3357_states.png" crc="169938968" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u3357_states-r.png" crc="3857135548" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u3357_states-m.png" crc="112172045" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u3358_states.png" crc="4189694533" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u3358_states-r.png" crc="3834443863" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u3358_states-m.png" crc="3918240321" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u3359_states.png" crc="459379339" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u3359_states-r.png" crc="3817697899" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u3359_states-m.png" crc="205298707" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17901_states.png" crc="3862103003" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17901_states-r.png" crc="470259787" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17901_states-m.png" crc="100473274" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u16844.png" crc="3961679362" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u16844-r.png" crc="536384388" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u16844-m.png" crc="3892945164" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u16844-a.png" crc="3912947569" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17094_states.png" crc="431429089" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17094_states-r.png" crc="301535191" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17094_states-m.png" crc="4227369290" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17094_states-a.png" crc="3800132780" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17147_states.png" crc="119447491" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17147_states-r.png" crc="3862138991" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17147_states-m.png" crc="370998911" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17148_states.png" crc="3959745269" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17148_states-r.png" crc="474464498" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17148_states-m.png" crc="139693700" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17149_states.png" crc="209609940" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17149_states-r.png" crc="4012045806" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17149_states-m.png" crc="3897512785" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17150_states.png" crc="41716435" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17150_states-r.png" crc="4107874455" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u17150_states-m.png" crc="4292545058" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u16996_states.png" crc="239503188" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u16996_states-r.png" crc="3829898938" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u16996_states-m.png" crc="137080832" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="u16996_states-a.png" crc="4172947669" ref="index:articulos-para-el-hohar:materia-prima"/>
+    <file name="fondo -adorno_mesa de trabajo 1.png" crc="3861173801" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p 01_mesa de trabajo 1.png" crc="166154428" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p 02_mesa de trabajo 1_mesa de trabajo 1.png" crc="395343300" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p 03_mesa de trabajo 1-crop-u17215.png" crc="3821671212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p 04.png" crc="195461407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u782-4.png" crc="3817748213" ref="index"/>
+    <file name="u783-4.png" crc="49733913" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="2551066-u17042-fr.jpg" crc="4001506318" ref="index:articulos-para-el-hohar"/>
+    <file name="u932-4.png" crc="219870890" ref="index"/>
+    <file name="formato muestra de producto sillas.png" crc="3816024935" ref="index:articulos-para-el-hohar">
+      <caption webpage="index" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+    </file>
+    <file name="formato muestra de producto.png" crc="534652921" ref="index:articulos-para-el-hohar:materia-prima">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+    </file>
+    <file name="locorera de madera-silla-u2459.png" crc="4222809133" ref="index"/>
+    <file name="u2480-4.png" crc="441297738" ref="index"/>
+    <file name="u2482-4.png" crc="3899956234" ref="index"/>
+    <file name="u2481-6.png" crc="4039640322" ref="index"/>
+    <file name="wood-background-105.jpg" crc="521211532" ref="index:articulos-para-el-hohar:materia-prima">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+    </file>
+    <file name="fondo formulario cotización.png" crc="131060298" ref="index:articulos-para-el-hohar:materia-prima">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+    </file>
+    <file name="u2509.png" crc="510344325" ref="index"/>
+    <file name="u2509-ferr.png" crc="13965788" ref="index"/>
+    <file name="u2515.png" crc="4055767747" ref="index"/>
+    <file name="u2515-r.png" crc="3888526996" ref="index"/>
+    <file name="u2515-m.png" crc="140954139" ref="index"/>
+    <file name="u2515-fs.png" crc="4226547319" ref="index"/>
+    <file name="u2503.png" crc="113729450" ref="index"/>
+    <file name="u2503-ferr.png" crc="179968027" ref="index"/>
+    <file name="u2506.png" crc="4282854109" ref="index"/>
+    <file name="u2506-ferr.png" crc="4208867495" ref="index"/>
+    <file name="u2498.png" crc="403027197" ref="index"/>
+    <file name="u2498-ferr.png" crc="195174197" ref="index"/>
+    <file name="u2491-4.png" crc="4055550164" ref="index"/>
+    <file name="u2519.png" crc="271674543" ref="index"/>
+    <file name="u2519-m.png" crc="271674543" ref="index"/>
+    <file name="base-u2471.png" crc="499559234" ref="index"/>
+    <file name="base-u2471-r.png" crc="4245199358" ref="index"/>
+    <file name="u2470.png" crc="4006317055" ref="index"/>
+    <file name="u2470-m.png" crc="223210612" ref="index"/>
+    <file name="locorera de madera-u1523.png" crc="4251202684" ref="index"/>
+    <file name="u1652-4.png" crc="533473800" ref="index"/>
+    <file name="u1656-4.png" crc="4139674649" ref="index"/>
+    <file name="u1659-6.png" crc="4250780690" ref="index"/>
+    <file name="u1788.png" crc="510344325" ref="index"/>
+    <file name="u1788-ferr.png" crc="13965788" ref="index"/>
+    <file name="u1783.png" crc="4055767747" ref="index"/>
+    <file name="u1783-r.png" crc="3888526996" ref="index"/>
+    <file name="u1783-m.png" crc="140954139" ref="index"/>
+    <file name="u1783-fs.png" crc="4226547319" ref="index"/>
+    <file name="u1790.png" crc="113729450" ref="index"/>
+    <file name="u1790-ferr.png" crc="179968027" ref="index"/>
+    <file name="u1778.png" crc="4282854109" ref="index"/>
+    <file name="u1778-ferr.png" crc="4208867495" ref="index"/>
+    <file name="u1849.png" crc="403027197" ref="index"/>
+    <file name="u1849-ferr.png" crc="195174197" ref="index"/>
+    <file name="u1884-4.png" crc="4055550164" ref="index"/>
+    <file name="u1665.png" crc="271674543" ref="index"/>
+    <file name="u1665-m.png" crc="271674543" ref="index"/>
+    <file name="base-u1628.png" crc="499559234" ref="index"/>
+    <file name="base-u1628-r.png" crc="4245199358" ref="index"/>
+    <file name="u1544.png" crc="4006317055" ref="index"/>
+    <file name="u1544-m.png" crc="223210612" ref="index"/>
+    <file name="comedor en madera mascota.png" crc="3963225144" ref="index:articulos-para-el-hohar">
+      <caption webpage="index" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+    </file>
+    <file name="locorera de madera-comedor perro-u17320.png" crc="4237053686" ref="index"/>
+    <file name="base-u17317.png" crc="499559234" ref="index"/>
+    <file name="base-u17317-r.png" crc="4245199358" ref="index"/>
+    <file name="u17318.png" crc="4006317055" ref="index"/>
+    <file name="u17318-m.png" crc="223210612" ref="index"/>
+    <file name="u17311-4.png" crc="525388870" ref="index"/>
+    <file name="u17270-5.png" crc="3787869640" ref="index"/>
+    <file name="u17301.png" crc="510344325" ref="index"/>
+    <file name="u17301-ferr.png" crc="13965788" ref="index"/>
+    <file name="u17289.png" crc="4055767747" ref="index"/>
+    <file name="u17289-r.png" crc="3888526996" ref="index"/>
+    <file name="u17289-m.png" crc="140954139" ref="index"/>
+    <file name="u17289-fs.png" crc="4226547319" ref="index"/>
+    <file name="u17292.png" crc="113729450" ref="index"/>
+    <file name="u17292-ferr.png" crc="179968027" ref="index"/>
+    <file name="u17304.png" crc="4282854109" ref="index"/>
+    <file name="u17304-ferr.png" crc="4208867495" ref="index"/>
+    <file name="u17295.png" crc="403027197" ref="index"/>
+    <file name="u17295-ferr.png" crc="195174197" ref="index"/>
+    <file name="u17308-4.png" crc="4055550164" ref="index"/>
+    <file name="u17282.png" crc="271674543" ref="index"/>
+    <file name="u17282-m.png" crc="271674543" ref="index"/>
+    <file name="cama sencilla.png" crc="4211231553" ref="index:articulos-para-el-hohar">
+      <caption webpage="index" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+    </file>
+    <file name="locorera de madera-cama sencilla madera-u17515.png" crc="108803752" ref="index"/>
+    <file name="u17473-4.png" crc="4105160906" ref="index"/>
+    <file name="u17474-5.png" crc="4074516530" ref="index"/>
+    <file name="u17509.png" crc="510344325" ref="index"/>
+    <file name="u17509-ferr.png" crc="13965788" ref="index"/>
+    <file name="u17506.png" crc="4055767747" ref="index"/>
+    <file name="u17506-r.png" crc="3888526996" ref="index"/>
+    <file name="u17506-m.png" crc="140954139" ref="index"/>
+    <file name="u17506-fs.png" crc="4226547319" ref="index"/>
+    <file name="u17504.png" crc="113729450" ref="index"/>
+    <file name="u17504-ferr.png" crc="179968027" ref="index"/>
+    <file name="u17498.png" crc="4282854109" ref="index"/>
+    <file name="u17498-ferr.png" crc="4208867495" ref="index"/>
+    <file name="u17494.png" crc="403027197" ref="index"/>
+    <file name="u17494-ferr.png" crc="195174197" ref="index"/>
+    <file name="u17512-4.png" crc="4055550164" ref="index"/>
+    <file name="u17485.png" crc="271674543" ref="index"/>
+    <file name="u17485-m.png" crc="271674543" ref="index"/>
+    <file name="base-u17466.png" crc="499559234" ref="index"/>
+    <file name="base-u17466-r.png" crc="4245199358" ref="index"/>
+    <file name="u17465.png" crc="4006317055" ref="index"/>
+    <file name="u17465-m.png" crc="223210612" ref="index"/>
+    <file name="comprar-u17444.png" crc="220955469" ref="index"/>
+    <file name="logo blanco.png" crc="39260509" seo="true" ref="index:articulos-para-el-hohar:materia-prima">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+    </file>
+    <file name="u2699-4.png" crc="4072467312" ref="index"/>
+    <file name="u16566-4.png" crc="181403171" ref="index"/>
+    <file name="facebook.png" crc="4152994836" seo="true" ref="index:articulos-para-el-hohar:materia-prima">
+      <caption webpage="index" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+    </file>
+    <file name="twiter.png" crc="496654975" seo="true" ref="index:articulos-para-el-hohar:materia-prima">
+      <caption webpage="index" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+    </file>
+    <file name="instragram.png" crc="3951997761" seo="true" ref="index:articulos-para-el-hohar:materia-prima">
+      <caption webpage="index" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+    </file>
+    <file name="whatsapp.png" crc="124324494" seo="true" ref="index:articulos-para-el-hohar:materia-prima">
+      <caption webpage="index" alt=""/>
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+    </file>
+    <file name="2551066.jpg" crc="79357412" ref="articulos-para-el-hohar:materia-prima">
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+      <caption webpage="materia-prima" alt=""/>
+    </file>
+    <file name="locorera de madera-comedor perro-u10866.png" crc="4237053686" ref="articulos-para-el-hohar"/>
+    <file name="base-u10875.png" crc="499559234" ref="articulos-para-el-hohar"/>
+    <file name="base-u10875-r.png" crc="4245199358" ref="articulos-para-el-hohar"/>
+    <file name="u10876.png" crc="4006317055" ref="articulos-para-el-hohar"/>
+    <file name="u10876-m.png" crc="223210612" ref="articulos-para-el-hohar"/>
+    <file name="u10883-4.png" crc="525388870" ref="articulos-para-el-hohar"/>
+    <file name="u10881-5.png" crc="3787869640" ref="articulos-para-el-hohar"/>
+    <file name="u10912.png" crc="510344325" ref="articulos-para-el-hohar"/>
+    <file name="u10912-ferr.png" crc="13965788" ref="articulos-para-el-hohar"/>
+    <file name="u10897.png" crc="4055767747" ref="articulos-para-el-hohar"/>
+    <file name="u10897-r.png" crc="3888526996" ref="articulos-para-el-hohar"/>
+    <file name="u10897-m.png" crc="140954139" ref="articulos-para-el-hohar"/>
+    <file name="u10897-fs.png" crc="4226547319" ref="articulos-para-el-hohar"/>
+    <file name="u10896.png" crc="113729450" ref="articulos-para-el-hohar"/>
+    <file name="u10896-ferr.png" crc="179968027" ref="articulos-para-el-hohar"/>
+    <file name="u10899.png" crc="4282854109" ref="articulos-para-el-hohar"/>
+    <file name="u10899-ferr.png" crc="4208867495" ref="articulos-para-el-hohar"/>
+    <file name="u10903.png" crc="403027197" ref="articulos-para-el-hohar"/>
+    <file name="u10903-ferr.png" crc="195174197" ref="articulos-para-el-hohar"/>
+    <file name="u10888-4.png" crc="4055550164" ref="articulos-para-el-hohar"/>
+    <file name="u10923.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="u10923-m.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="cama doble.png" crc="468611963" ref="articulos-para-el-hohar">
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+    </file>
+    <file name="locorera de madera-cama-u3857.png" crc="4012188830" ref="articulos-para-el-hohar"/>
+    <file name="u3867-4.png" crc="42783413" ref="articulos-para-el-hohar"/>
+    <file name="u3869-4.png" crc="245211700" ref="articulos-para-el-hohar"/>
+    <file name="u3882.png" crc="510344325" ref="articulos-para-el-hohar"/>
+    <file name="u3882-ferr.png" crc="13965788" ref="articulos-para-el-hohar"/>
+    <file name="u3898.png" crc="4055767747" ref="articulos-para-el-hohar"/>
+    <file name="u3898-r.png" crc="3888526996" ref="articulos-para-el-hohar"/>
+    <file name="u3898-m.png" crc="140954139" ref="articulos-para-el-hohar"/>
+    <file name="u3898-fs.png" crc="4226547319" ref="articulos-para-el-hohar"/>
+    <file name="u3886.png" crc="113729450" ref="articulos-para-el-hohar"/>
+    <file name="u3886-ferr.png" crc="179968027" ref="articulos-para-el-hohar"/>
+    <file name="u3892.png" crc="4282854109" ref="articulos-para-el-hohar"/>
+    <file name="u3892-ferr.png" crc="4208867495" ref="articulos-para-el-hohar"/>
+    <file name="u3895.png" crc="403027197" ref="articulos-para-el-hohar"/>
+    <file name="u3895-ferr.png" crc="195174197" ref="articulos-para-el-hohar"/>
+    <file name="u3876-4.png" crc="4055550164" ref="articulos-para-el-hohar"/>
+    <file name="u3903.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="u3903-m.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="base-u3915.png" crc="499559234" ref="articulos-para-el-hohar"/>
+    <file name="base-u3915-r.png" crc="4245199358" ref="articulos-para-el-hohar"/>
+    <file name="u3916.png" crc="4006317055" ref="articulos-para-el-hohar"/>
+    <file name="u3916-m.png" crc="223210612" ref="articulos-para-el-hohar"/>
+    <file name="comedor en madera x6.png" crc="214028294" ref="articulos-para-el-hohar">
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+    </file>
+    <file name="locorera de madera-mesa 4-u10739.png" crc="184797566" ref="articulos-para-el-hohar"/>
+    <file name="u10693-6.png" crc="313864487" ref="articulos-para-el-hohar"/>
+    <file name="u10691-5.png" crc="3861997517" ref="articulos-para-el-hohar"/>
+    <file name="u10722.png" crc="510344325" ref="articulos-para-el-hohar"/>
+    <file name="u10722-ferr.png" crc="13965788" ref="articulos-para-el-hohar"/>
+    <file name="u10710.png" crc="4055767747" ref="articulos-para-el-hohar"/>
+    <file name="u10710-r.png" crc="3888526996" ref="articulos-para-el-hohar"/>
+    <file name="u10710-m.png" crc="140954139" ref="articulos-para-el-hohar"/>
+    <file name="u10710-fs.png" crc="4226547319" ref="articulos-para-el-hohar"/>
+    <file name="u10714.png" crc="113729450" ref="articulos-para-el-hohar"/>
+    <file name="u10714-ferr.png" crc="179968027" ref="articulos-para-el-hohar"/>
+    <file name="u10727.png" crc="4282854109" ref="articulos-para-el-hohar"/>
+    <file name="u10727-ferr.png" crc="4208867495" ref="articulos-para-el-hohar"/>
+    <file name="u10718.png" crc="403027197" ref="articulos-para-el-hohar"/>
+    <file name="u10718-ferr.png" crc="195174197" ref="articulos-para-el-hohar"/>
+    <file name="u10705-4.png" crc="4055550164" ref="articulos-para-el-hohar"/>
+    <file name="u10732.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="u10732-m.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="base-u10738.png" crc="499559234" ref="articulos-para-el-hohar"/>
+    <file name="base-u10738-r.png" crc="4245199358" ref="articulos-para-el-hohar"/>
+    <file name="u10737.png" crc="4006317055" ref="articulos-para-el-hohar"/>
+    <file name="u10737-m.png" crc="223210612" ref="articulos-para-el-hohar"/>
+    <file name="lampara doble.png" crc="142439395" ref="articulos-para-el-hohar">
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+    </file>
+    <file name="locorera de madera-lampara colgante grande-u13956.png" crc="3940157409" ref="articulos-para-el-hohar"/>
+    <file name="u13963-4.png" crc="3919595030" ref="articulos-para-el-hohar"/>
+    <file name="u14004-5.png" crc="189268450" ref="articulos-para-el-hohar"/>
+    <file name="u13985.png" crc="510344325" ref="articulos-para-el-hohar"/>
+    <file name="u13985-ferr.png" crc="13965788" ref="articulos-para-el-hohar"/>
+    <file name="u13988.png" crc="4055767747" ref="articulos-para-el-hohar"/>
+    <file name="u13988-r.png" crc="3888526996" ref="articulos-para-el-hohar"/>
+    <file name="u13988-m.png" crc="140954139" ref="articulos-para-el-hohar"/>
+    <file name="u13988-fs.png" crc="4226547319" ref="articulos-para-el-hohar"/>
+    <file name="u13982.png" crc="113729450" ref="articulos-para-el-hohar"/>
+    <file name="u13982-ferr.png" crc="179968027" ref="articulos-para-el-hohar"/>
+    <file name="u13977.png" crc="4282854109" ref="articulos-para-el-hohar"/>
+    <file name="u13977-ferr.png" crc="4208867495" ref="articulos-para-el-hohar"/>
+    <file name="u13972.png" crc="403027197" ref="articulos-para-el-hohar"/>
+    <file name="u13972-ferr.png" crc="195174197" ref="articulos-para-el-hohar"/>
+    <file name="u13990-4.png" crc="4055550164" ref="articulos-para-el-hohar"/>
+    <file name="u13998.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="u13998-m.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="base-u14012.png" crc="499559234" ref="articulos-para-el-hohar"/>
+    <file name="base-u14012-r.png" crc="4245199358" ref="articulos-para-el-hohar"/>
+    <file name="u14013.png" crc="4006317055" ref="articulos-para-el-hohar"/>
+    <file name="u14013-m.png" crc="223210612" ref="articulos-para-el-hohar"/>
+    <file name="locorera de madera-cama sencilla madera-u8090.png" crc="108803752" ref="articulos-para-el-hohar"/>
+    <file name="u8081-4.png" crc="4105160906" ref="articulos-para-el-hohar"/>
+    <file name="u8083-5.png" crc="4074516530" ref="articulos-para-el-hohar"/>
+    <file name="u8054.png" crc="510344325" ref="articulos-para-el-hohar"/>
+    <file name="u8054-ferr.png" crc="13965788" ref="articulos-para-el-hohar"/>
+    <file name="u8064.png" crc="4055767747" ref="articulos-para-el-hohar"/>
+    <file name="u8064-r.png" crc="3888526996" ref="articulos-para-el-hohar"/>
+    <file name="u8064-m.png" crc="140954139" ref="articulos-para-el-hohar"/>
+    <file name="u8064-fs.png" crc="4226547319" ref="articulos-para-el-hohar"/>
+    <file name="u8066.png" crc="113729450" ref="articulos-para-el-hohar"/>
+    <file name="u8066-ferr.png" crc="179968027" ref="articulos-para-el-hohar"/>
+    <file name="u8061.png" crc="4282854109" ref="articulos-para-el-hohar"/>
+    <file name="u8061-ferr.png" crc="4208867495" ref="articulos-para-el-hohar"/>
+    <file name="u8057.png" crc="403027197" ref="articulos-para-el-hohar"/>
+    <file name="u8057-ferr.png" crc="195174197" ref="articulos-para-el-hohar"/>
+    <file name="u8049-4.png" crc="4055550164" ref="articulos-para-el-hohar"/>
+    <file name="u8078.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="u8078-m.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="base-u8038.png" crc="499559234" ref="articulos-para-el-hohar"/>
+    <file name="base-u8038-r.png" crc="4245199358" ref="articulos-para-el-hohar"/>
+    <file name="u8037.png" crc="4006317055" ref="articulos-para-el-hohar"/>
+    <file name="u8037-m.png" crc="223210612" ref="articulos-para-el-hohar"/>
+    <file name="comedor en madera.png" crc="3899090263" ref="articulos-para-el-hohar">
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+    </file>
+    <file name="locorera de madera-mesa 3-u10496.png" crc="3879892421" ref="articulos-para-el-hohar"/>
+    <file name="u10510-6.png" crc="535482951" ref="articulos-para-el-hohar"/>
+    <file name="u10508-5.png" crc="404419326" ref="articulos-para-el-hohar"/>
+    <file name="u10522.png" crc="510344325" ref="articulos-para-el-hohar"/>
+    <file name="u10522-ferr.png" crc="13965788" ref="articulos-para-el-hohar"/>
+    <file name="u10529.png" crc="4055767747" ref="articulos-para-el-hohar"/>
+    <file name="u10529-r.png" crc="3888526996" ref="articulos-para-el-hohar"/>
+    <file name="u10529-m.png" crc="140954139" ref="articulos-para-el-hohar"/>
+    <file name="u10529-fs.png" crc="4226547319" ref="articulos-para-el-hohar"/>
+    <file name="u10527.png" crc="113729450" ref="articulos-para-el-hohar"/>
+    <file name="u10527-ferr.png" crc="179968027" ref="articulos-para-el-hohar"/>
+    <file name="u10533.png" crc="4282854109" ref="articulos-para-el-hohar"/>
+    <file name="u10533-ferr.png" crc="4208867495" ref="articulos-para-el-hohar"/>
+    <file name="u10537.png" crc="403027197" ref="articulos-para-el-hohar"/>
+    <file name="u10537-ferr.png" crc="195174197" ref="articulos-para-el-hohar"/>
+    <file name="u10541-4.png" crc="4055550164" ref="articulos-para-el-hohar"/>
+    <file name="u10547.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="u10547-m.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="base-u10502.png" crc="499559234" ref="articulos-para-el-hohar"/>
+    <file name="base-u10502-r.png" crc="4245199358" ref="articulos-para-el-hohar"/>
+    <file name="u10503.png" crc="4006317055" ref="articulos-para-el-hohar"/>
+    <file name="u10503-m.png" crc="223210612" ref="articulos-para-el-hohar"/>
+    <file name="lampara sencilla.png" crc="4008255100" ref="articulos-para-el-hohar">
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+    </file>
+    <file name="locorera de madera-lampara 2-u13830.png" crc="4194020454" ref="articulos-para-el-hohar"/>
+    <file name="u13825-4.png" crc="4294131812" ref="articulos-para-el-hohar"/>
+    <file name="u13826-4.png" crc="3937614340" ref="articulos-para-el-hohar"/>
+    <file name="u13808.png" crc="510344325" ref="articulos-para-el-hohar"/>
+    <file name="u13808-ferr.png" crc="13965788" ref="articulos-para-el-hohar"/>
+    <file name="u13794.png" crc="4055767747" ref="articulos-para-el-hohar"/>
+    <file name="u13794-r.png" crc="3888526996" ref="articulos-para-el-hohar"/>
+    <file name="u13794-m.png" crc="140954139" ref="articulos-para-el-hohar"/>
+    <file name="u13794-fs.png" crc="4226547319" ref="articulos-para-el-hohar"/>
+    <file name="u13798.png" crc="113729450" ref="articulos-para-el-hohar"/>
+    <file name="u13798-ferr.png" crc="179968027" ref="articulos-para-el-hohar"/>
+    <file name="u13802.png" crc="4282854109" ref="articulos-para-el-hohar"/>
+    <file name="u13802-ferr.png" crc="4208867495" ref="articulos-para-el-hohar"/>
+    <file name="u13811.png" crc="403027197" ref="articulos-para-el-hohar"/>
+    <file name="u13811-ferr.png" crc="195174197" ref="articulos-para-el-hohar"/>
+    <file name="u13790-4.png" crc="4055550164" ref="articulos-para-el-hohar"/>
+    <file name="u13818.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="u13818-m.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="base-u13779.png" crc="499559234" ref="articulos-para-el-hohar"/>
+    <file name="base-u13779-r.png" crc="4245199358" ref="articulos-para-el-hohar"/>
+    <file name="u13780.png" crc="4006317055" ref="articulos-para-el-hohar"/>
+    <file name="u13780-m.png" crc="223210612" ref="articulos-para-el-hohar"/>
+    <file name="locorera de madera-silla-u13225.png" crc="4222809133" ref="articulos-para-el-hohar"/>
+    <file name="u13276-4.png" crc="441297738" ref="articulos-para-el-hohar"/>
+    <file name="u13234-4.png" crc="3899956234" ref="articulos-para-el-hohar"/>
+    <file name="u13235-6.png" crc="4039640322" ref="articulos-para-el-hohar"/>
+    <file name="u13267.png" crc="510344325" ref="articulos-para-el-hohar"/>
+    <file name="u13267-ferr.png" crc="13965788" ref="articulos-para-el-hohar"/>
+    <file name="u13269.png" crc="4055767747" ref="articulos-para-el-hohar"/>
+    <file name="u13269-r.png" crc="3888526996" ref="articulos-para-el-hohar"/>
+    <file name="u13269-m.png" crc="140954139" ref="articulos-para-el-hohar"/>
+    <file name="u13269-fs.png" crc="4226547319" ref="articulos-para-el-hohar"/>
+    <file name="u13255.png" crc="113729450" ref="articulos-para-el-hohar"/>
+    <file name="u13255-ferr.png" crc="179968027" ref="articulos-para-el-hohar"/>
+    <file name="u13261.png" crc="4282854109" ref="articulos-para-el-hohar"/>
+    <file name="u13261-ferr.png" crc="4208867495" ref="articulos-para-el-hohar"/>
+    <file name="u13259.png" crc="403027197" ref="articulos-para-el-hohar"/>
+    <file name="u13259-ferr.png" crc="195174197" ref="articulos-para-el-hohar"/>
+    <file name="u13245-4.png" crc="4055550164" ref="articulos-para-el-hohar"/>
+    <file name="u13240.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="u13240-m.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="base-u13283.png" crc="499559234" ref="articulos-para-el-hohar"/>
+    <file name="base-u13283-r.png" crc="4245199358" ref="articulos-para-el-hohar"/>
+    <file name="u13282.png" crc="4006317055" ref="articulos-para-el-hohar"/>
+    <file name="u13282-m.png" crc="223210612" ref="articulos-para-el-hohar"/>
+    <file name="comedor en madera centro.png" crc="169431244" ref="articulos-para-el-hohar">
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+    </file>
+    <file name="locorera de madera-mesa de madera-u13046.png" crc="4081538305" ref="articulos-para-el-hohar"/>
+    <file name="u13041-4.png" crc="277818110" ref="articulos-para-el-hohar"/>
+    <file name="u13042-6.png" crc="4228378205" ref="articulos-para-el-hohar"/>
+    <file name="u13024.png" crc="510344325" ref="articulos-para-el-hohar"/>
+    <file name="u13024-ferr.png" crc="13965788" ref="articulos-para-el-hohar"/>
+    <file name="u13010.png" crc="4055767747" ref="articulos-para-el-hohar"/>
+    <file name="u13010-r.png" crc="3888526996" ref="articulos-para-el-hohar"/>
+    <file name="u13010-m.png" crc="140954139" ref="articulos-para-el-hohar"/>
+    <file name="u13010-fs.png" crc="4226547319" ref="articulos-para-el-hohar"/>
+    <file name="u13014.png" crc="113729450" ref="articulos-para-el-hohar"/>
+    <file name="u13014-ferr.png" crc="179968027" ref="articulos-para-el-hohar"/>
+    <file name="u13018.png" crc="4282854109" ref="articulos-para-el-hohar"/>
+    <file name="u13018-ferr.png" crc="4208867495" ref="articulos-para-el-hohar"/>
+    <file name="u13027.png" crc="403027197" ref="articulos-para-el-hohar"/>
+    <file name="u13027-ferr.png" crc="195174197" ref="articulos-para-el-hohar"/>
+    <file name="u13006-4.png" crc="4055550164" ref="articulos-para-el-hohar"/>
+    <file name="u13034.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="u13034-m.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="base-u12995.png" crc="499559234" ref="articulos-para-el-hohar"/>
+    <file name="base-u12995-r.png" crc="4245199358" ref="articulos-para-el-hohar"/>
+    <file name="u12996.png" crc="4006317055" ref="articulos-para-el-hohar"/>
+    <file name="u12996-m.png" crc="223210612" ref="articulos-para-el-hohar"/>
+    <file name="locorera de madera-u15025.png" crc="4251202684" ref="articulos-para-el-hohar"/>
+    <file name="u14974-4.png" crc="533473800" ref="articulos-para-el-hohar"/>
+    <file name="u14972-4.png" crc="4139674649" ref="articulos-para-el-hohar"/>
+    <file name="u14973-6.png" crc="4250780690" ref="articulos-para-el-hohar"/>
+    <file name="u15003.png" crc="510344325" ref="articulos-para-el-hohar"/>
+    <file name="u15003-ferr.png" crc="13965788" ref="articulos-para-el-hohar"/>
+    <file name="u15001.png" crc="4055767747" ref="articulos-para-el-hohar"/>
+    <file name="u15001-r.png" crc="3888526996" ref="articulos-para-el-hohar"/>
+    <file name="u15001-m.png" crc="140954139" ref="articulos-para-el-hohar"/>
+    <file name="u15001-fs.png" crc="4226547319" ref="articulos-para-el-hohar"/>
+    <file name="u14992.png" crc="113729450" ref="articulos-para-el-hohar"/>
+    <file name="u14992-ferr.png" crc="179968027" ref="articulos-para-el-hohar"/>
+    <file name="u14994.png" crc="4282854109" ref="articulos-para-el-hohar"/>
+    <file name="u14994-ferr.png" crc="4208867495" ref="articulos-para-el-hohar"/>
+    <file name="u14999.png" crc="403027197" ref="articulos-para-el-hohar"/>
+    <file name="u14999-ferr.png" crc="195174197" ref="articulos-para-el-hohar"/>
+    <file name="u15008-4.png" crc="4055550164" ref="articulos-para-el-hohar"/>
+    <file name="u14979.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="u14979-m.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="base-u15018.png" crc="499559234" ref="articulos-para-el-hohar"/>
+    <file name="base-u15018-r.png" crc="4245199358" ref="articulos-para-el-hohar"/>
+    <file name="u15019.png" crc="4006317055" ref="articulos-para-el-hohar"/>
+    <file name="u15019-m.png" crc="223210612" ref="articulos-para-el-hohar"/>
+    <file name="espejo.png" crc="520799657" ref="articulos-para-el-hohar">
+      <caption webpage="articulos-para-el-hohar" alt=""/>
+    </file>
+    <file name="locorera de madera-espejo-u14641.png" crc="67425982" ref="articulos-para-el-hohar"/>
+    <file name="u14634-4.png" crc="400684714" ref="articulos-para-el-hohar"/>
+    <file name="u14633-4.png" crc="3869487641" ref="articulos-para-el-hohar"/>
+    <file name="u14627.png" crc="510344325" ref="articulos-para-el-hohar"/>
+    <file name="u14627-ferr.png" crc="13965788" ref="articulos-para-el-hohar"/>
+    <file name="u14620.png" crc="4055767747" ref="articulos-para-el-hohar"/>
+    <file name="u14620-r.png" crc="3888526996" ref="articulos-para-el-hohar"/>
+    <file name="u14620-m.png" crc="140954139" ref="articulos-para-el-hohar"/>
+    <file name="u14620-fs.png" crc="4226547319" ref="articulos-para-el-hohar"/>
+    <file name="u14613.png" crc="113729450" ref="articulos-para-el-hohar"/>
+    <file name="u14613-ferr.png" crc="179968027" ref="articulos-para-el-hohar"/>
+    <file name="u14623.png" crc="4282854109" ref="articulos-para-el-hohar"/>
+    <file name="u14623-ferr.png" crc="4208867495" ref="articulos-para-el-hohar"/>
+    <file name="u14619.png" crc="403027197" ref="articulos-para-el-hohar"/>
+    <file name="u14619-ferr.png" crc="195174197" ref="articulos-para-el-hohar"/>
+    <file name="u14606-4.png" crc="4055550164" ref="articulos-para-el-hohar"/>
+    <file name="u14597.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="u14597-m.png" crc="271674543" ref="articulos-para-el-hohar"/>
+    <file name="base-u14639.png" crc="499559234" ref="articulos-para-el-hohar"/>
+    <file name="base-u14639-r.png" crc="4245199358" ref="articulos-para-el-hohar"/>
+    <file name="u14638.png" crc="4006317055" ref="articulos-para-el-hohar"/>
+    <file name="u14638-m.png" crc="223210612" ref="articulos-para-el-hohar"/>
+    <file name="u15258-4.png" crc="4237288104" ref="articulos-para-el-hohar"/>
+    <file name="u15264-4.png" crc="4168616645" ref="articulos-para-el-hohar"/>
+    <file name="u15285-4.png" crc="3839604060" ref="articulos-para-el-hohar"/>
+    <file name="u15291-4.png" crc="64585150" ref="articulos-para-el-hohar"/>
+    <file name="comprar-u17694.png" crc="220955469" ref="articulos-para-el-hohar"/>
+    <file name="u17732-4.png" crc="4072467312" ref="articulos-para-el-hohar"/>
+    <file name="u17742-4.png" crc="181403171" ref="articulos-para-el-hohar"/>
+    <file name="gajos.png" crc="211490375" ref="materia-prima">
+      <caption webpage="materia-prima" alt=""/>
+    </file>
+    <file name="locorera de madera-trozos de madera 4-u15359.png" crc="84671000" ref="materia-prima"/>
+    <file name="base-u15370.png" crc="499559234" ref="materia-prima"/>
+    <file name="base-u15370-r.png" crc="4245199358" ref="materia-prima"/>
+    <file name="u15369.png" crc="4006317055" ref="materia-prima"/>
+    <file name="u15369-m.png" crc="223210612" ref="materia-prima"/>
+    <file name="u15416-4.png" crc="48376361" ref="materia-prima"/>
+    <file name="u15415-4.png" crc="98420217" ref="materia-prima"/>
+    <file name="u15400.png" crc="510344325" ref="materia-prima"/>
+    <file name="u15400-ferr.png" crc="13965788" ref="materia-prima"/>
+    <file name="u15402.png" crc="4055767747" ref="materia-prima"/>
+    <file name="u15402-r.png" crc="3888526996" ref="materia-prima"/>
+    <file name="u15402-m.png" crc="140954139" ref="materia-prima"/>
+    <file name="u15402-fs.png" crc="4226547319" ref="materia-prima"/>
+    <file name="u15391.png" crc="113729450" ref="materia-prima"/>
+    <file name="u15391-ferr.png" crc="179968027" ref="materia-prima"/>
+    <file name="u15387.png" crc="4282854109" ref="materia-prima"/>
+    <file name="u15387-ferr.png" crc="4208867495" ref="materia-prima"/>
+    <file name="u15394.png" crc="403027197" ref="materia-prima"/>
+    <file name="u15394-ferr.png" crc="195174197" ref="materia-prima"/>
+    <file name="u15407-4.png" crc="4055550164" ref="materia-prima"/>
+    <file name="u15411.png" crc="271674543" ref="materia-prima"/>
+    <file name="u15411-m.png" crc="271674543" ref="materia-prima"/>
+    <file name="orillos.png" crc="20979312" ref="materia-prima">
+      <caption webpage="materia-prima" alt=""/>
+    </file>
+    <file name="locorera de madera-trosos de madera 2-u15475.png" crc="225773740" ref="materia-prima"/>
+    <file name="u15464-4.png" crc="247989676" ref="materia-prima"/>
+    <file name="u15465-5.png" crc="2215131" ref="materia-prima"/>
+    <file name="u15445.png" crc="510344325" ref="materia-prima"/>
+    <file name="u15445-ferr.png" crc="13965788" ref="materia-prima"/>
+    <file name="u15432.png" crc="4055767747" ref="materia-prima"/>
+    <file name="u15432-r.png" crc="3888526996" ref="materia-prima"/>
+    <file name="u15432-m.png" crc="140954139" ref="materia-prima"/>
+    <file name="u15432-fs.png" crc="4226547319" ref="materia-prima"/>
+    <file name="u15436.png" crc="113729450" ref="materia-prima"/>
+    <file name="u15436-ferr.png" crc="179968027" ref="materia-prima"/>
+    <file name="u15442.png" crc="4282854109" ref="materia-prima"/>
+    <file name="u15442-ferr.png" crc="4208867495" ref="materia-prima"/>
+    <file name="u15430.png" crc="403027197" ref="materia-prima"/>
+    <file name="u15430-ferr.png" crc="195174197" ref="materia-prima"/>
+    <file name="u15452-4.png" crc="4055550164" ref="materia-prima"/>
+    <file name="u15460.png" crc="271674543" ref="materia-prima"/>
+    <file name="u15460-m.png" crc="271674543" ref="materia-prima"/>
+    <file name="base-u15473.png" crc="499559234" ref="materia-prima"/>
+    <file name="base-u15473-r.png" crc="4245199358" ref="materia-prima"/>
+    <file name="u15474.png" crc="4006317055" ref="materia-prima"/>
+    <file name="u15474-m.png" crc="223210612" ref="materia-prima"/>
+    <file name="trozos.png" crc="42351898" ref="materia-prima">
+      <caption webpage="materia-prima" alt=""/>
+    </file>
+    <file name="locorera de madera-retablo-u16190.png" crc="340591792" ref="materia-prima"/>
+    <file name="locorera de madera-retablo-u16339.png" crc="340591792" ref="materia-prima"/>
+    <file name="locorera de madera-retablo-u16346.png" crc="340591792" ref="materia-prima"/>
+    <file name="u16182-4.png" crc="4103635881" ref="materia-prima"/>
+    <file name="u16183-4.png" crc="4084577639" ref="materia-prima"/>
+    <file name="u16168.png" crc="510344325" ref="materia-prima"/>
+    <file name="u16168-ferr.png" crc="13965788" ref="materia-prima"/>
+    <file name="u16170.png" crc="4055767747" ref="materia-prima"/>
+    <file name="u16170-r.png" crc="3888526996" ref="materia-prima"/>
+    <file name="u16170-m.png" crc="140954139" ref="materia-prima"/>
+    <file name="u16170-fs.png" crc="4226547319" ref="materia-prima"/>
+    <file name="u16164.png" crc="113729450" ref="materia-prima"/>
+    <file name="u16164-ferr.png" crc="179968027" ref="materia-prima"/>
+    <file name="u16174.png" crc="4282854109" ref="materia-prima"/>
+    <file name="u16174-ferr.png" crc="4208867495" ref="materia-prima"/>
+    <file name="u16159.png" crc="403027197" ref="materia-prima"/>
+    <file name="u16159-ferr.png" crc="195174197" ref="materia-prima"/>
+    <file name="u16151-4.png" crc="4055550164" ref="materia-prima"/>
+    <file name="u16146.png" crc="271674543" ref="materia-prima"/>
+    <file name="u16146-m.png" crc="271674543" ref="materia-prima"/>
+    <file name="base-u16139.png" crc="499559234" ref="materia-prima"/>
+    <file name="base-u16139-r.png" crc="4245199358" ref="materia-prima"/>
+    <file name="u16138.png" crc="4006317055" ref="materia-prima"/>
+    <file name="u16138-m.png" crc="223210612" ref="materia-prima"/>
+    <file name="retablos.png" crc="3903842538" ref="materia-prima">
+      <caption webpage="materia-prima" alt=""/>
+    </file>
+    <file name="locorera de madera-retablo-u15478.png" crc="3844928356" ref="materia-prima"/>
+    <file name="u15529-4.png" crc="4046330773" ref="materia-prima"/>
+    <file name="u15488-4.png" crc="3807694594" ref="materia-prima"/>
+    <file name="u15520.png" crc="510344325" ref="materia-prima"/>
+    <file name="u15520-ferr.png" crc="13965788" ref="materia-prima"/>
+    <file name="u15522.png" crc="4055767747" ref="materia-prima"/>
+    <file name="u15522-r.png" crc="3888526996" ref="materia-prima"/>
+    <file name="u15522-m.png" crc="140954139" ref="materia-prima"/>
+    <file name="u15522-fs.png" crc="4226547319" ref="materia-prima"/>
+    <file name="u15510.png" crc="113729450" ref="materia-prima"/>
+    <file name="u15510-ferr.png" crc="179968027" ref="materia-prima"/>
+    <file name="u15504.png" crc="4282854109" ref="materia-prima"/>
+    <file name="u15504-ferr.png" crc="4208867495" ref="materia-prima"/>
+    <file name="u15514.png" crc="403027197" ref="materia-prima"/>
+    <file name="u15514-ferr.png" crc="195174197" ref="materia-prima"/>
+    <file name="u15524-4.png" crc="4055550164" ref="materia-prima"/>
+    <file name="u15497.png" crc="271674543" ref="materia-prima"/>
+    <file name="u15497-m.png" crc="271674543" ref="materia-prima"/>
+    <file name="base-u15534.png" crc="499559234" ref="materia-prima"/>
+    <file name="base-u15534-r.png" crc="4245199358" ref="materia-prima"/>
+    <file name="u15533.png" crc="4006317055" ref="materia-prima"/>
+    <file name="u15533-m.png" crc="223210612" ref="materia-prima"/>
+    <file name="butaco.png" crc="3898795194" ref="materia-prima">
+      <caption webpage="materia-prima" alt=""/>
+    </file>
+    <file name="locorera de madera-trozos de madera-u16009.png" crc="495039727" ref="materia-prima"/>
+    <file name="u15997-4.png" crc="501410615" ref="materia-prima"/>
+    <file name="u15956-4.png" crc="218557517" ref="materia-prima"/>
+    <file name="u15980.png" crc="510344325" ref="materia-prima"/>
+    <file name="u15980-ferr.png" crc="13965788" ref="materia-prima"/>
+    <file name="u15977.png" crc="4055767747" ref="materia-prima"/>
+    <file name="u15977-r.png" crc="3888526996" ref="materia-prima"/>
+    <file name="u15977-m.png" crc="140954139" ref="materia-prima"/>
+    <file name="u15977-fs.png" crc="4226547319" ref="materia-prima"/>
+    <file name="u15974.png" crc="113729450" ref="materia-prima"/>
+    <file name="u15974-ferr.png" crc="179968027" ref="materia-prima"/>
+    <file name="u15984.png" crc="4282854109" ref="materia-prima"/>
+    <file name="u15984-ferr.png" crc="4208867495" ref="materia-prima"/>
+    <file name="u15987.png" crc="403027197" ref="materia-prima"/>
+    <file name="u15987-ferr.png" crc="195174197" ref="materia-prima"/>
+    <file name="u15992-4.png" crc="4055550164" ref="materia-prima"/>
+    <file name="u15964.png" crc="271674543" ref="materia-prima"/>
+    <file name="u15964-m.png" crc="271674543" ref="materia-prima"/>
+    <file name="base-u16002.png" crc="499559234" ref="materia-prima"/>
+    <file name="base-u16002-r.png" crc="4245199358" ref="materia-prima"/>
+    <file name="u16001.png" crc="4006317055" ref="materia-prima"/>
+    <file name="u16001-m.png" crc="223210612" ref="materia-prima"/>
+    <file name="u16359-4.png" crc="4037389495" ref="materia-prima"/>
+    <file name="comprar-u17704.png" crc="220955469" ref="materia-prima"/>
+    <file name="u17846-4.png" crc="4072467312" ref="materia-prima"/>
+    <file name="u17856-4.png" crc="181403171" ref="materia-prima"/>
+  </folder>
+  <file name="index.html" crc="4161550305" seo="true" mt="1574653669017" redirect="true"/>
+  <file name="articulos-para-el-hohar.html" crc="456282663" seo="true" mt="1574653669017" redirect="true"/>
+  <file name="materia-prima.html" crc="3839883050" seo="true" mt="1574653669017" redirect="true"/>
+</manifest>
